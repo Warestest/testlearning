@@ -80,3 +80,24 @@ git diff
 
 
 ## Изображения
+
+**Чтобы добавить изображения, воспользуйтесь следующей командой:**
+
+```
+![Альтернативный текст](ссылка на это фото)
+```
+Пример:
+
+![пример фото с сайта](https://images.unsplash.com/photo-1541480601022-2308c0f02487?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)
+
+**Если свое фото - то указываем его название:**
+
+![пример фото часов](clock.jpg)
+
+**Если мы хотим добавить изображения-ссылки, то нашу конструкцию нужно сделать такой:**
+
+```
+[![альтернативный текст(ссылка)]](Ссылка на другую картинку - наш перевертыш)
+```
+
+[![Картинка с ссылкой](https://images.unsplash.com/photo-1550534791-2677533605ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)](https://images.unsplash.com/photo-1686595092928-0252b92e007e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80)
